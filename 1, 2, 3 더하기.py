@@ -10,7 +10,7 @@ def solve(n):
 
 T = int(input()) # 3
 
-for _ in range(T):
-    n = int(input())
+for _ in range(T): 
+    n = int(input()) # 7
     print(solve(n))
 
